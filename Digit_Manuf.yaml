@@ -1,0 +1,49 @@
+name: Digit_Manuf
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - bokeh
+  - dask
+  - dask-core
+  - dask-glm
+  - dask-image
+  - dask-jobqueue
+  - dask-ml
+  - dask-searchcv
+  - decorator
+  - future
+  - h5py
+  - hdf5
+  - jedi
+  - jpeg
+  - json5
+  - jsonschema
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_pygments
+  - jupyterlab_server
+  - matplotlib
+  - matplotlib-base
+  - numba
+  - numpy
+  - numpy-base
+  - packaging
+  - pandas
+  - pandoc
+  - pandocfilters
+  - pickleshare
+  - pillow
+  - pims
+  - pyqt
+  - python>=3.8.12
+  - python-dateutil
+  - scikit-image
+  - scikit-learn>=1.0.1
+  - scipy
+  - seaborn
+  - slicerator
+  - wheel
+prefix: /Users/username/anaconda3/envs/Digit_Manuf
